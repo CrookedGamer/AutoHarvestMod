@@ -1,0 +1,9 @@
+<Patch>
+    <OperationClass>PatchOperationReplace</OperationClass>
+    <xpath>/Defs/PrisonerInteractionModeDef[defName=\"HemogenFarm\"]</xpath>
+    <value>
+        <defName>OrganHarvesting</defName>
+        <label>Harvest organs</label>
+        <description>Harvest organs from prisoners marked for extraction.</description>
+    </value>
+</Patch>

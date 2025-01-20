@@ -1,0 +1,10 @@
+<WorkTypeDef>
+  <defName>OrganHarvesting</defName>
+  <label>organ harvesting</label>
+  <gerund>harvesting organs</gerund>
+  <description>Tasks related to harvesting organs from living or deceased beings.</description>
+  <workTags>Doctor</workTags>
+  <pawnCapacityDefs>
+    <pawnCapacityDef>Manipulation</pawnCapacityDef>
+  </pawnCapacityDefs>
+</WorkTypeDef>

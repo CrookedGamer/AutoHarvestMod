@@ -1,0 +1,9 @@
+<ModMetaData>
+    <name>Auto Harvest Organs</name>
+    <author>Redacted</author>
+    <description>Automatically harvest organs from prisoners in RimWorld.</description>
+    <version>1.0</version>
+    <supportedVersions>
+        <li>1.5</li>
+    </supportedVersions>
+</ModMetaData>

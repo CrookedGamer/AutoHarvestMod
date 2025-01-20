@@ -1,0 +1,20 @@
+<RecipeDef>
+  <defName>HarvestLung</defName>
+  <label>harvest lung</label>
+  <jobString>harvesting a lung.</jobString>
+  <workerClass>Verse.RecipeWorker</workerClass>
+  <appliesTo>Pawn</appliesTo>
+  <workAmount>1000</workAmount>
+  <ingredients>
+    <!-- Add any necessary ingredients or conditions -->
+  </ingredients>
+  <products>
+    <li>
+      <thingDef>HarvestedLung</thingDef>
+    </li>
+  </products>
+  <anesthetize>true</anesthetize>
+  <successfullyRemovedPartsMessage>
+    Successfully harvested the {0}.
+  </successfullyRemovedPartsMessage>
+</RecipeDef>
